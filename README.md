@@ -3,4 +3,8 @@
 # IT Technician and Systems Architect
 
 This is a digital vault of all past, present, and future projects. 
-
+Projects:
+* Virtualization (VM's).
+* Custom Routers / NAS systems.
+* Solar project development and asset management.
+* Modding toolkits (Creation Engine).
