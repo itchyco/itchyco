@@ -2,4 +2,5 @@
 
 # IT Technician and Systems Architect
 
+This is a digital vault of all past, present, and future projects. 
 
