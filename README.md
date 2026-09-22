@@ -8,3 +8,4 @@ Projects:
 * Custom Routers / NAS systems.
 * Solar project development and asset management.
 * Modding toolkits (Creation Engine).
+* Analog and digital storage solutions.
