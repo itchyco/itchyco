@@ -1,4 +1,4 @@
-<img width="1018" height="366" alt="Screenshot 2026-09-22 171853" src="https://github.com/user-attachments/assets/d6282e97-aa5e-426c-b832-7c926ea94204" />
+<img width="757" height="470" alt="Screenshot 2026-10-20 205325" src="https://github.com/user-attachments/assets/eb1f6461-7f29-41ae-82b8-b780e9a03282" />
 
 # IT Technician and Systems Architect
 
