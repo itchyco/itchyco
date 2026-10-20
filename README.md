@@ -5,6 +5,7 @@
 This is a digital vault of all past, present, and future projects.
 
 Projects:
+* Game mods.
 * Virtualization (VM's).
 * Custom Routers / NAS systems.
 * Solar project development and asset management.
