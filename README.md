@@ -11,3 +11,5 @@ Projects:
 * Solar project development and asset management.
 * Modding toolkits (Creation Engine).
 * Analog and digital storage solutions.
+
+<img width="450" height="350" alt="Screenshot 2026-10-20 210159" src="https://github.com/user-attachments/assets/fd2601a2-cd40-43b7-80f5-390c21b22770" />
